@@ -1,4 +1,4 @@
 # checkingithub
 Another git repository
 <br>
-Author - Munish Kumar
+Author - Munish Kumar Dogra
